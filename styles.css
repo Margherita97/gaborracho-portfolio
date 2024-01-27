@@ -3,3 +3,13 @@
     align-items: center;
     justify-content: center;
 }
+
+header {
+    background-color: #D04848;
+}
+
+a.nav-link {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
