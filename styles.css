@@ -22,3 +22,10 @@ a.nav-link {
 .icon-link:hover {
     color: #D04848;
 }
+
+@media (max-width: 1000px) {
+    .gabro {
+        width: 200px;
+        height: 100px;
+    }
+}
